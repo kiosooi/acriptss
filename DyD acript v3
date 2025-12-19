@@ -1,3 +1,3 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kiosooi/acripts/refs/heads/main/DyD%20acript%20v2"))()
-task.wait()
+task.wait(0.11)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/kiosooi/acripts/refs/heads/main/DyD%20acript%20v2"))()
